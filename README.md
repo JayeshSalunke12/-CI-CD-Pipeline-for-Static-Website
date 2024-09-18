@@ -77,10 +77,6 @@ The Jenkins pipeline is structured into the following stages:
 4. **Push**: Pushes the Docker image to Docker Hub.
 5. **Deploy**: Deploys the Docker container to the Kubernetes cluster on AWS EKS.
 
-## Demo 🎥
-
-![CI/CD Pipeline Workflow](https://your-image-link.com)  
-*(You can add a relevant architecture diagram or demo gif/video here)*
 
 ## Lessons Learned 📚
 
